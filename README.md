@@ -1,7 +1,7 @@
 # GSEnergiaRenovavelV2
 
 
-Simulação de Sistema IoT para Gestão de Energia em Escritório (Climatização, Iluminação e Equipamentos
+Simulação de Sistema IoT para Gestão de Energia em Escritório (Climatização, Iluminação e Equipamentos)
 
 
 
