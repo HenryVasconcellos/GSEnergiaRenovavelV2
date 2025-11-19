@@ -9,3 +9,7 @@ Com o sistema IoT atuando de forma integrada – desligando ou reduzindo ilumina
 Isso representa uma economia de aproximadamente 14,8 kWh, ou cerca de 4,6% de redução no consumo semanal. Projetando esse valor ao longo do tempo, a economia pode chegar a cerca de 64 kWh por mês e mais de 770 kWh por ano, apenas com otimização operacional, sem depender de mudanças drásticas no comportamento dos usuários.
 
 Esses resultados mostram como soluções baseadas em IoT e automação predial podem contribuir para eficiência energética, redução de custos e sustentabilidade, ao mesmo tempo em que tornam o ambiente de trabalho mais confortável e inteligente.
+
+Link do youtube: https://youtu.be/Fby7xWsSq-k?si=b5VLOfQ9ucym7jSw
+
+Link do powerpoint: https://1drv.ms/p/c/450d983ea518f472/EaMTOkx_fZlGhiAegHU4uwQBAr_WwMjJ12GoWBx7LBI0YQ?e=5ByZJi
